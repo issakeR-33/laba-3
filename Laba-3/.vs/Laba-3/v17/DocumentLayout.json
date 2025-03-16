@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Laba-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:MovieSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:MovieSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:Reserve_Tickets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:MovieSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reserve_Tickets.h",
-              "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.h",
-              "RelativeDocumentMoniker": "Reserve_Tickets.h",
-              "ToolTip": "F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.h",
-              "RelativeToolTip": "Reserve_Tickets.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-16T10:09:06.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MovieSession.cpp",
-              "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.cpp",
-              "RelativeDocumentMoniker": "MovieSession.cpp",
-              "ToolTip": "F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.cpp",
-              "RelativeToolTip": "MovieSession.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T09:51:22.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MovieSession.h",
               "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.h",
               "RelativeDocumentMoniker": "MovieSession.h",
@@ -75,9 +45,28 @@
               "RelativeDocumentMoniker": "Laba-3.cpp",
               "ToolTip": "F:\\IT\\labs\\laba-3\\Laba-3\\Laba-3.cpp",
               "RelativeToolTip": "Laba-3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T09:20:51.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieSession.cpp",
+              "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.cpp",
+              "RelativeDocumentMoniker": "MovieSession.cpp",
+              "ToolTip": "F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.cpp",
+              "RelativeToolTip": "MovieSession.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T09:51:22.444Z",
               "EditorCaption": ""
             }
           ]

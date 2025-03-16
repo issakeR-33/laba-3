@@ -1,2 +1,6 @@
-﻿  MovieSession.cpp
-  Laba-3.vcxproj -> F:\IT\labs\laba-3\Laba-3\x64\Debug\Laba-3.exe
+﻿  Menu.cpp
+  MovieSession.cpp
+F:\IT\labs\laba-3\Laba-3\Menu.h(25,1): error C1070: mismatched #if/#endif pair in file 'F:\IT\labs\laba-3\Laba-3\Menu.h'
+  (compiling source file '../Menu.cpp')
+  
+  Generating Code...
