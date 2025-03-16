@@ -22,6 +22,6 @@ int main() {
     Menu copy_of_order = order1;
     order1.order();
 
-    cout << "Count!!!!!!! " << Menu::get_count() << endl;
+    cout << "Count of snacks: " << Menu::get_count() << endl;
     cout << endl;
 }
