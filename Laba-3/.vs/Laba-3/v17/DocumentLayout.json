@@ -3,23 +3,8 @@
   "WorkspaceRootPath": "F:\\IT\\labs\\laba-3\\Laba-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:MovieSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:Reserve_Tickets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vanya\\Downloads\\Telegram Desktop\\main (3).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\Laba-3\\Laba-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:Laba-3\\Laba-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -28,6 +13,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:MovieSession.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vanya\\Downloads\\Telegram Desktop\\main (3).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\Laba-3\\Laba-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|solutionrelative:Laba-3\\Laba-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E84835F0-313B-412A-B213-EA3B54532549}|Laba-3\\Laba-3.vcxproj|F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -41,11 +41,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Laba-3.cpp",
               "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\Laba-3\\Laba-3.cpp",
               "RelativeDocumentMoniker": "Laba-3\\Laba-3.cpp",
@@ -54,19 +54,17 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T10:58:48.126Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "main (3).cpp",
               "DocumentMoniker": "C:\\Users\\Vanya\\Downloads\\Telegram Desktop\\main (3).cpp",
               "ToolTip": "C:\\Users\\Vanya\\Downloads\\Telegram Desktop\\main (3).cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T11:00:56.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T11:00:56.821Z"
             },
             {
               "$type": "Document",
@@ -82,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Menu.cpp",
               "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\Menu.cpp",
               "RelativeDocumentMoniker": "Menu.cpp",
@@ -95,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MovieSession.cpp",
               "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\MovieSession.cpp",
               "RelativeDocumentMoniker": "MovieSession.cpp",
@@ -103,12 +101,11 @@
               "RelativeToolTip": "MovieSession.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T10:34:15.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T10:34:15.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Menu.h",
               "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\Menu.h",
               "RelativeDocumentMoniker": "Menu.h",
@@ -116,32 +113,34 @@
               "RelativeToolTip": "Menu.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-16T10:30:55.144Z"
+              "WhenOpened": "2025-03-16T10:30:55.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Reserve_Tickets.cpp",
               "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.cpp",
               "RelativeDocumentMoniker": "Reserve_Tickets.cpp",
               "ToolTip": "F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.cpp",
               "RelativeToolTip": "Reserve_Tickets.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T11:04:28.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Reserve_Tickets.h",
               "DocumentMoniker": "F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.h",
               "RelativeDocumentMoniker": "Reserve_Tickets.h",
               "ToolTip": "F:\\IT\\labs\\laba-3\\Laba-3\\Reserve_Tickets.h",
               "RelativeToolTip": "Reserve_Tickets.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-16T10:57:24.705Z"
+              "WhenOpened": "2025-03-16T10:57:24.705Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -21,6 +21,8 @@ public:
     Reserve_Tickets(const Reserve_Tickets& other);
     //void info_about_reserve();
     friend ostream& operator<<(ostream& os, const Reserve_Tickets& ticket);
+    Reserve_Tickets& operator-();
+    Reserve_Tickets& operator+=(int extraSeats);
     ~Reserve_Tickets();
 
 };
