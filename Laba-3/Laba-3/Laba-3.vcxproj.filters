@@ -24,15 +24,18 @@
     <ClCompile Include="..\Menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Reserve_Tickets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\MovieSession.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\Reserve_Tickets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MovieSession.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

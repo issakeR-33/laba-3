@@ -19,6 +19,7 @@ public:
 
     Menu();
     Menu(string nS, string sS, double pS, string nD, double sD, double pD);
+    Menu(const Menu& other);
     void order();
     ~Menu();
 };

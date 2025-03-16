@@ -18,7 +18,7 @@ private:
 public:
     Reserve_Tickets();
     Reserve_Tickets(string nC, string m, string d, string nM, int R, int S);
-
+    Reserve_Tickets(const Reserve_Tickets& other);
     void info_about_reserve();
     ~Reserve_Tickets();
 

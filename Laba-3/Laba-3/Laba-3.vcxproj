@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="..\Menu.cpp" />
     <ClCompile Include="..\MovieSession.cpp" />
+    <ClCompile Include="..\Reserve_Tickets.cpp" />
     <ClCompile Include="Laba-3.cpp" />
   </ItemGroup>
   <ItemGroup>

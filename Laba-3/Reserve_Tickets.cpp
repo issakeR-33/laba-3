@@ -7,6 +7,16 @@ Reserve_Tickets::Reserve_Tickets()
 Reserve_Tickets::Reserve_Tickets(string nC, string m, string d, string nM, int R, int S) 
 	: nameClient(nC), nameMovie(m), dateMovie(d), timeMovie(nM), numberRow(R), numberSit(S) {}
 
+Reserve_Tickets::Reserve_Tickets(const Reserve_Tickets& other) {
+	nameClient = other.nameClient;
+	nameMovie = other.nameMovie;
+	dateMovie = other.dateMovie;
+	timeMovie = other.timeMovie;
+	numberRow = other.numberRow;
+	numberSit = other.numberSit;
+	cout << "Your Copy of Ticket" << endl;
+}
+
 void Reserve_Tickets::info_about_reserve() {
 	cout << "Your name: " << nameClient << "." << endl;
 	cout << "Movie: " << nameMovie << "." << endl;
