@@ -19,6 +19,8 @@ public:
 
     Movie_Session(const Movie_Session& other);
 
+    Movie_Session(Movie_Session&& other);
+
     ~Movie_Session();
 
     void film_info();
