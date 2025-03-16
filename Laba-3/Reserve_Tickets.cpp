@@ -25,7 +25,6 @@ Reserve_Tickets::Reserve_Tickets(const Reserve_Tickets& other) {
 //	cout << "Your place: " << "Row: " << numberRow << " " << "Sit: " << numberSit << "." << endl;
 //}
 
-
 ostream& operator<<(ostream& os, const Reserve_Tickets& ticket) {
 	os << endl;
 	os << "Name: " << ticket.nameClient << endl;
