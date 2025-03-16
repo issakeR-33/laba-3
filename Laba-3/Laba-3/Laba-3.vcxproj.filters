@@ -26,5 +26,8 @@
     <ClInclude Include="..\MovieSession.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\Reserve_Tickets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
